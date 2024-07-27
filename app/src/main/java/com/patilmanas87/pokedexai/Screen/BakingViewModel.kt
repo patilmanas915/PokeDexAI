@@ -76,7 +76,7 @@ class BakingViewModel(private val pokemonDao: PokemonDao) : ViewModel() {
 
     private val generativeModel = GenerativeModel(
         modelName = "gemini-1.5-flash",
-        apiKey = BuildConfig.apiKey
+        apiKey = "enter your own gemini api key"
     )
 
     private fun createDummyBitmap(): Bitmap {
