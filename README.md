@@ -4,6 +4,9 @@ RealDexAI is an Android application inspired by the Pokémon show, designed to r
 
 ## Screenshots
 ![Screenshot](image/img1.jpeg)
+![Screenshot](image/img2.jpeg)
+![Screenshot](image/img3.jpeg)
+![Screenshot](image/img4.jpeg)
 
 ## Features
 
