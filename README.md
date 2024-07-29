@@ -3,7 +3,7 @@
 RealDexAI is an Android application inspired by the Pokémon show, designed to replicate the functionality of a Pokédex. This app allows users to scan objects or Pokémon and provides basic information and statistics about them.
 
 ## Screenshots
-![Screenshot](images/screenshot.png)
+![Screenshot](images/img1.jpeg)
 
 ## Features
 
